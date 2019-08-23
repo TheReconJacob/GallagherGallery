@@ -1,0 +1,1 @@
+INSERT INTO gallery (id, tags) VALUES (1, "Beautiful"), (2, "Cool");
