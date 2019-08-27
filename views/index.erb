@@ -7,7 +7,8 @@
   <p>Welcome to the Gallaghery. This is where you can view pictures of Noel Gallagher, but not Liam. We don't like Liam.</p>
 <table style="width:100%">
   <tr>
-  <% photolinks.each do | photolink | photos.each do | photo | %>
+  <% photolinks.each do | photolink | %>
+  <% photos.each do | photo | %>
     <th><a href="<%=photolink%>"><img src="<%=photo%>"></a></th>
   <%end%>
   <%end%>
