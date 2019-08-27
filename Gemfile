@@ -18,3 +18,11 @@ gem "shotgun", "~> 0.9.2"
 gem "thin", "~> 1.7"
 
 gem "simplecov", "~> 0.17.0"
+
+gem "net", "~> 0.3.3"
+
+gem "http", "~> 4.1"
+
+gem "json", "~> 2.2"
+
+gem 'pixabay-api', require: 'pixabay'
