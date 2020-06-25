@@ -7,7 +7,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 # gem "rails"
 
 gem "sqlite3", "~> 1.4"
-gem "rack", "~> 2.0"
+gem "rack", "~> 2.1"
 
 gem "sinatra", "~> 2.0"
 
