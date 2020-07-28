@@ -30,7 +30,7 @@ GEM
       multi_xml (>= 0.5.2)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
-    json (2.2.0)
+    json (2.3.0)
     method_source (0.9.2)
     minitest (5.11.3)
     multi_xml (0.6.0)
@@ -90,7 +90,7 @@ PLATFORMS
 
 DEPENDENCIES
   http (~> 4.1)
-  json (~> 2.2)
+  json (~> 2.3)
   net (~> 0.3.3)
   pixabay-api
   pry (~> 0.12.2)

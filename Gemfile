@@ -23,6 +23,6 @@ gem "net", "~> 0.3.3"
 
 gem "http", "~> 4.1"
 
-gem "json", "~> 2.2"
+gem "json", "~> 2.3"
 
 gem 'pixabay-api', require: 'pixabay'
